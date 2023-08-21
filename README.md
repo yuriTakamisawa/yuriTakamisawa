@@ -1,8 +1,8 @@
 
 # Hi there 👋, 
 ### My name is Yuri Takamisawa
-#### Software Development Student
-
+#### Software Development Student from São Paulo, Brazil.
+##### Studying currently in Fatec Zona Leste, in the third semester.
 
 I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!
 
