@@ -17,7 +17,7 @@ I love learning new languages and implementing them in various projects. Current
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-[![Yuri Takamisawa Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriTakamisawa)](https://github.com/yuriTakamisawa/github-readme-stats)
+[![Yuri Takamisawa Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriTakamisawaRibeiro)](https://github.com/yuriTakamisawaRibeiro/github-readme-stats)
 
 
 
