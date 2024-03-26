@@ -1,10 +1,10 @@
 
 # Hi there 👋, 
-### My name is Yuri Takamisawa,
-#### Software Development Student from São Paulo, Brazil.
-#### Studying currently in <a href="http://www.fateczl.edu.br/inicio" target="_blank" >Fatec Zona Leste</a> , on the third semester.
+### Me chamo Yuri Takamisawa,
+#### Estudante de Desenvolvimento de Software, de São Paulo, Brasil.
+#### Aluno atualmente da <a href="http://www.fateczl.edu.br/inicio" target="_blank" >Fatec Zona Leste</a> , no quarto semestre.
 
-I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!
+Tenho muito interesse por tecnologia e aprender como desenvolver melhor, estou fazendo projetos em React, Node e Spring Boot.
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
