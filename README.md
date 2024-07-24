@@ -2,7 +2,7 @@
 # Hi there 👋, 
 ### Me chamo Yuri Takamisawa,
 #### Estudante de Desenvolvimento de Software, de São Paulo, Brasil.
-#### Aluno atualmente da <a href="http://www.fateczl.edu.br/inicio" target="_blank" >Fatec Zona Leste</a> , no quarto semestre.
+#### Aluno atualmente da <a href="http://www.fateczl.edu.br/inicio" target="_blank" >Fatec Zona Leste</a>.
 
 Tenho muito interesse por tecnologia e aprender como desenvolver melhor, estou fazendo projetos em React, Node e Spring Boot.
 
